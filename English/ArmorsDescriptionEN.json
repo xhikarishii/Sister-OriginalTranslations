@@ -364,6 +364,23 @@
             "Reduces Bleed damage taken by \\c[10]30%\\c[0]"
         ]
     },
+    "28": {
+        "name": [
+            "Oni Hand"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A massive arm brimming with the brute strength of the Oni clan",
+			"It symbolizes a power so fierce it can easily crush solid rock",
+			"For humans, it is a force far too difficult to control"
+        ],
+        "ability": [
+            "Physical attack power +100%. Attack speed decreases",
+            "Weapons are more likely to break during attacks"
+        ]
+    },
     "29": {
         "name": [
             "Saucy Jacky"
@@ -656,6 +673,23 @@
 			"Each linked servant grants you a healing effect"
         ]
     },
+    "49": {
+        "name": [
+            "Red Horn"
+        ],
+        "subtitle": [
+            "\"Don't you ever stop！\""
+        ],
+        "description": [
+            "A crimson horn filled with the Jackalope’s magic",
+			"If magic could be supplied endlessly, it might keep accelerating ",
+			"until it became a comet streaking across the sky!"
+        ],
+        "ability": [
+            "When fully charged, Senpo has no cooldown and moves faster",
+			"Once the charge is depleted, it will auto-recharge"
+        ]
+    },
     "50": {
         "name": [
             "Potato Chips"
@@ -667,6 +701,21 @@
         ],
         "ability": [
             "Attracts seagulls that steal your chips"
+        ]
+    },
+    "52": {
+        "name": [
+            "Shadowcrawler Gift"
+        ],
+        "subtitle": "",
+        "description": [
+            "Said to be a symbol from the depths where shadows creep",
+            "holding it makes you feel as if something is ",
+			"quietly writhing behind you—"
+        ],
+        "ability": [
+            "Movement speed increases",
+			"Gain the attention of ▓▓▓▓▓▓▓"
         ]
     },
     "53": {

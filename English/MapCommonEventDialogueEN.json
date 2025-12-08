@@ -10,7 +10,55 @@
 			"The network connection may have failed!",
 			"\\w[120]"
         ]		
-    },
+    },  
+  "ElixirCraft": {
+        "0": [
+            " Elixir Craft "
+		],
+		"1": [
+            " Successfully created Elixir Rubrum! "
+        ]		
+    },	
+  "gainRedHeart": {
+        "0": [
+            " Heart Blooming "
+		],
+		"1": [
+            " \\str[120]’s heart just skipped a beat! "
+        ]		
+    },	
+  "gainWhiteHeart": {
+        "0": [
+            " Overflowing Love "
+		],
+		"1": [
+            " She was filled up! "
+        ]		
+    },	
+  "gainGoldenHeart": {
+        "0": [
+            " Golden Lust "
+		],
+		"1": [
+            " Lost in a sea of gold "
+        ]		
+    },		
+  "NinjasFate": {
+        "0": [
+            " Ninja’s Fate "
+		],
+		"1": [
+            " Erase oneself, and wield the blade for comrades... "
+        ]		
+    },		
+  "unlockJackalope": {
+        "0": [
+            " Jackalope "
+		],
+		"1": [
+            " has appeared in the Abyss! "
+        ]		
+    },	
   "maidBunnyBoss": {
         "0": [
             "There’s really nothing special up ahead!",

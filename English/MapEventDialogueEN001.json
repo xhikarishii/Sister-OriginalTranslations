@@ -97,6 +97,18 @@
 			"flees when it senses someone approaching.",
 			"What could be the right way to catch them...?"
 		]	
+    },
+  "13": {
+		"objectName": [
+		    "Shione"
+		],	  
+		"subtitle": [
+		    "Demonic Sister of The Fallen Church"
+		],
+		"bossName": [
+		    "The Pride Demon"
+		],
+		"garble": true
     },	
   "14": {
 		"objectName": [
@@ -107,6 +119,52 @@
 		],	  
         "description": [
             "There seems to be something under the water..."
+		]	
+    },	  
+  "15": {
+		"objectName": [
+		    "\\c[115]Jackalope"
+		],	  
+		"sentouryoku": [
+		    "555"
+		],	  
+        "description": [
+            "A high-rank monster evolved from the ",
+			"Horned Rabbit. For monster, horns serve both ",
+			"as weapons and as cores for storing mana.",
+			"Unlike the Horned Rabbit, it’s highly aggressive",
+			"When excited, its body turns red as mana surges, ",
+			"and it launches rapid, repeated charges."
+		]	
+    },		  
+  "16": {
+		"objectName": [
+		    "The Unnameable C"
+		],	  
+		"sentouryoku": [
+		    "9"
+		],	  
+        "description": [
+            "A being so infamous that even its name ",
+			"became taboo. In theory, it’s almost harmless—",
+			"but its terrifying appearance and unpredictable ",
+			"movements are enough to throw everyone ",
+			"present into chaos."
+		]	
+    },
+  "18": {
+		"objectName": [
+		    "Stele of the End"
+		],	  
+		"sentouryoku": [
+		    "1"
+		],	  
+        "description": [
+            "A long-neglected stone monument, ",
+			"now cracked and weathered.",
+			"You can tell it was once exquisitely carved.",
+			"Even after all these years, it still",
+			"carries an aura that inspires quiet awe."
 		]	
     },  
   "24": {

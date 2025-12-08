@@ -853,7 +853,25 @@
         "20": [
             "\\nl< >\"……Huh?  \\w[30]",
 			"\\str[121], it says 'ZAKO' on your head~!\""
-        ]		
+        ],
+        "21": [
+            "\\nl< >\"Mmm… So sleepy…   \\w[60]",
+			"I must’ve dozed off from sitting too long…\""
+        ],
+        "22": [
+            "\\nl< >\"But my cheek feels a little sore…",
+			"Did you do something to me?\""
+        ],
+        "23": [
+            "She looks like she’s nodding off…",
+			"What should I do…? Seeing her so defenseless like this,",
+			"I really want to reach out and pinch her cheek…"
+        ],
+        "24": [
+            "Huh?",
+			"She still hasn’t woken up even after that…?",
+			"Can I… do it again…?"
+        ]	
     },	
   "18": {
         "0": [
@@ -869,7 +887,8 @@
         "2": [
             "Drink Something",
 			"Play Something",
-			"Spoil Me"
+			"Spoil Me",
+			"Give a Gift"
 		],
         "3": [
             "\\nl< >\"My hair isn't dry yet. Let’s drink later.\""
@@ -1028,6 +1047,10 @@
         "43": [
             "\\nl< >\"So you see, \\str[121]—if it’s something small like that,",
 			"I can totally do it for you even without the Pass~\""
+		],	
+        "44": [
+            "\\nl< >\"Do you have any shows you want to watch, \\str[121]?",
+			"Then let’s go to the living room together~!\""
 		]
     },			
   "19": {

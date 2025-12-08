@@ -43,51 +43,59 @@
     },
     "4": {
         "name": [
-            "10Yen"
+            "10 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Just a coin worth 10 Yen",
+			"But… it can’t buy anything at all!"
         ],
         "ability": ""
     },
     "5": {
         "name": [
-            "50Yen"
+            "50 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Just a coin worth 50 Yen",
+            "Still seems like it buys nothing… but losing it would still hurt"
         ],
         "ability": ""
     },
     "6": {
         "name": [
-            "100Yen"
+            "100 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Just a coin worth 100 Yen",
+            "With a bit of luck, it might be enough to buy ",
+			"\\str[120]’s favorite strawberry milk"
         ],
         "ability": ""
     },
     "7": {
         "name": [
-            "500Yen"
+            "500 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Just a coin worth 500 Yen",
+            "If it goes into the gacha… maybe—just maybe—",
+			"it’ll hit a legendary Item pull…!"
         ],
         "ability": ""
     },
     "8": {
         "name": [
-            "1000Yen"
+            "1000 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Just a 1000 Yen banknote",
+            "No one knows why even monsters have started ",
+			"collecting human money…"
         ],
         "ability": ""
     },
@@ -97,37 +105,45 @@
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Just a 5000 Yen banknote",
+            "Anyone who sees it can’t help but feel moved—",
+			"is this the power of money…?"
         ],
         "ability": ""
     },
     "10": {
         "name": [
-            "10000Yen"
+            "10000 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "Just a 10000 Yen banknote",
+            "Even a gacha machine would smile at such value—"
         ],
         "ability": ""
     },	
     "11": {
         "name": [
-            "50000Yen"
+            "50000 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "A thick stack of 5000 Yen banknotes",
+            "As the maid Bunnys rapidly expand trade",
+            "monsters have also begun snatching adventurers’ wallets",
+            "just to experience this thing called 'shopping' "
         ],
         "ability": ""
     },	
     "12": {
         "name": [
-            "100000Yen"
+            "100000 Yen"
         ],
         "subtitle": "",
         "description": [
-            ""
+            "A thick stack of 10000 Yen banknotes",
+            "Its scent of wealth can even make ",
+			"greedy demons smile seductively—"
         ],
         "ability": ""
     },
@@ -1203,6 +1219,57 @@
         ],
         "ability": ""
     },
+    "187": {
+        "name": [
+            "Old Videotape"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A special medium that stores footage from a bygone era, playable",
+			"only with specific equipment. Some propose it was an alchemical",
+			"product of an ancient civilization, though no proof exists",
+			"Its scarcity also makes collectors highly eager to obtain it"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "188": {
+        "name": [
+            "Horror Videotape"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A special medium that stores footage from a bygone era, playable",
+			"only with specific equipment. Some propose it was an alchemical",
+			"product of an ancient civilization, though no proof exists",
+			"It also seems cursed—the footage is always unnervingly chilling"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "189": {
+        "name": [
+            "Adult Videotape"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "A special medium that stores footage from a bygone era, playable",
+			"only with specific equipment. Some propose it was an alchemical",
+			"product of an ancient civilization, though no proof exists",
+			"It seems to be restricted content, filled with arousing scenes"
+        ],
+        "ability": [
+            ""
+        ]
+    },	
   "190": {
         "name": [
             "Yuri Doujinshi"

@@ -391,7 +391,30 @@
            ]
 		}
 	}	
-  }, 
+  },   
+  "43": {
+    "name": [],
+    "subtitle": [
+	  "Frightened \\str[120]"
+	],
+    "description": [
+      ""	
+    ],
+	"variants": {
+		"0": {
+           "description": [
+             "\\str[120] clung tightly to me,",
+			 "her body trembling slightly…"
+           ]
+		},
+		"1": {
+           "description": [
+             "Our bodies were completely entwined, ",
+			 "exchanging warmth with each other…"
+           ]
+		}	
+	}	
+  },  
   "45": {
     "name": [],
     "subtitle": [
@@ -408,6 +431,15 @@
     ],
     "description": [
       "Cook a meat dish"
+    ]
+  },
+  "54": {
+    "name": [],
+    "subtitle": [
+      "\"rustle... rustle...\""
+    ],
+    "description": [
+      "You are being closely watched by a group of small creatures..."
     ]
   },
   "55": {
