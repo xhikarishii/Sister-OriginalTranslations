@@ -101,6 +101,9 @@
   "totalFilesToUpdate": [
     "Detected ${} file(s) to update—starting download process!"
   ],
+  "silentUpdateSuccess": [
+    "New patch content for ${} has been successfully installed and will take effect upon the next restart."
+  ],
   "renameCharacter": [
     "I remember now—",
 	"she is..."
@@ -137,6 +140,16 @@
 	"Note: This is an experimental feature, and its effectiveness may vary depending on the device.",
 	"You can disable this feature at any time to immediately restore full image clarity."
   ],
+  "cloudSaveServiceWarning": [
+    "This feature will request access to your Google Drive,",
+	"so it can store your game save files in the NLCH/save folder.",
+    "The uploaded save files will be used for later synchronization and downloading back into the game.",
+    "Do you agree to grant the game access to Google Drive?"
+  ],
+  "uploadSaveFile": [
+    "Downloading a save file from Google Drive will overwrite your current local save data!",
+    "Do you want to continue?"
+  ],   
   "nearbyMonstersCount": [
     "Detected nearby monsters"
   ],
@@ -150,5 +163,37 @@
     "Our Steam store page is finally live!",
 	"Please add us to your wishlist and support us! (*´∀`)~♥",
 	"⬇Click below to open the Steam page."
-  ]    
+  ],
+  "AdventurersPathway": {
+    "mapName": " -Adventurer's Pathway- "
+  }, 
+  "ShallowRuinsLabyrinth": {
+    "mapName":        " -Shallow Ruins Labyrinth- ",
+	"mapDescription": " A vast labyrinth filled with countless mysteries "	
+  }, 
+  "ForgottenCatacombe": {
+    "mapName": " -Forgotten Catacombe- "
+  }, 
+  "ForestofRuins": {
+    "mapName": " -Forest of Ruins- "
+  }, 
+  "AbandonedForest": {
+    "mapName": " -Abandoned Forest- "
+  }, 
+  "ExcavationSite": {
+    "mapName": " -Excavation Site- "
+  }, 
+  "TheFallenChurch": {
+    "mapName": " -The Fallen Church- "
+  }, 
+  "DoorofStar": {
+    "mapName": " -Door of Star- "
+  }, 
+  "ScorchingLavaZone": {
+    "mapName":        " -Scorching Lava Zone- ",
+	"mapDescription": " A blazing land woven in fire, where trials burn eternal "
+  }, 
+  "Nibelungen": {
+    "mapName": " -Nibelungen- "
+  }      
 }

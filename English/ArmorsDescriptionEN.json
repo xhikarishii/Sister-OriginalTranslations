@@ -633,7 +633,9 @@
         "name": [
             "Fist of Fury"
         ],
-        "subtitle": "",
+        "subtitle": [
+		    "\"Left hand hits hard, right hand hits harder.\""
+		],
         "description": [
             "A powerful magical fist",
             "Seething with unknown rage, it remains tightly clenched…"
@@ -1062,12 +1064,12 @@
             "\"\\str[121], you kept your promise well!\""		
 		],
         "description": [
-            "The little sister who always admired and worried about",
-            "her \\str[121] finally shows a satisfied smile",
-            "For \\str[121], it's enough to be the motivation to keep going"
+            "The perfect smile finally shown by \\str[120] ",
+            "who has always admired and worried about \\str[121]—",
+            "a smile that becomes his motivation to keep moving forward"
         ],
         "ability": [
-            "Desire up, all stats up"
+            "Desire up, all stats increased"
         ]
     },
     "130": {
@@ -1079,10 +1081,11 @@
 		],
         "description": [
             "Panties received from \\str[120] due to a misunderstanding",
-            "Never returned, but deep down, there's happiness"
+            "Although no suitable chance to return it has ever come up,",
+			"deep down inside, a faint sense of joy quietly lingers..."
         ],
         "ability": [
-            "Inspired by \\str[120]. When HP < 50%, gain auto-recovery"
+            "Automatically regenerates HP when below 50%"
         ]
     },
     "131": {

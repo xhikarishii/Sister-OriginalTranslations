@@ -887,6 +887,7 @@
         "2": [
             "Drink Something",
 			"Play Something",
+			"Watch Something",
 			"Spoil Me",
 			"Give a Gift"
 		],
@@ -1051,6 +1052,10 @@
         "44": [
             "\\nl< >\"Do you have any shows you want to watch, \\str[121]?",
 			"Then let’s go to the living room together~!\""
+		],	
+        "45": [
+            "It’s already late… ",
+			"better not go to the living room."
 		]
     },			
   "19": {
@@ -2302,7 +2307,43 @@
             "In the end, nothing seemed to change ",
 			"after she drank the Elixir Rubrum.",
 			"Could it really have no effect at all?"
-		]
+		],
+        "51": [
+            "\\nl< >\"...\\str[121]? That red bottle—   \\w[45]",
+			"is that a new medicine!?\""
+		],
+        "52": [
+            "\"Yeah, same as usual...",
+			"try mixing it with milk and drinking it?\""
+		],
+        "53": [
+            "\\nl< >\"Yay~! I get to taste that sweet-and-sour flavor again!\""
+		],
+        "55": [
+            "\\nl< >\"...It really does taste good~!\""
+		],
+        "56": [
+            "\\nl< >\"Next time, \\str[121], you should try it too!\""
+		],
+        "57": [
+            "\"Ah... yeah... ",
+			"as long as you can drink it without trouble...\""
+		],		
+        "58": [
+            "It tastes good...",
+			"so why does it make me nauseous when I lick those fragments?",
+			"Is there really something different about ",
+			"Elixir Rubrum after the reddening reaction...?"
+		],
+        "59": [
+            "In any case, ",
+			"\\str[120]’s mental state really has been improving gradually ",
+			"after taking the medicine, and that alone is enough to prove ",
+			"that Father’s experiment wasn’t a mistake. ",
+			"If things keep going like this, ",
+			"as long as I can get another four or five bottles of Elixir Rubrum,",
+			"maybe \\str[120] really can recover enough to go outside again!"
+		]		
     },		
   "51": {
         "0": [

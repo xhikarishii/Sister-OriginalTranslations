@@ -136,7 +136,7 @@
   "28": {
     "name": [],
     "subtitle": [
-	  "Gaming "
+	  "Gaming \\str[120]"
 	],
     "description": [
       ""	
@@ -159,7 +159,7 @@
   "29": {
     "name": [],
     "subtitle": [
-	  "Bathing "
+	  "Bathing \\str[120]"
 	],
     "description": [
       ""	
@@ -182,7 +182,7 @@
   "30": {
     "name": [],
     "subtitle": [
-	  "Resting "
+	  "Resting \\str[120]"
 	],
     "description": [
       ""
@@ -229,7 +229,7 @@
   "31": {
     "name": [],
     "subtitle": [
-	  "Sleeping "
+	  "Sleeping \\str[120]"
 	],
     "description": [
       ""
@@ -270,13 +270,19 @@
              "\\str[120] is almost awake",
 			 "but her senses are still hazy"
            ]
+		},
+		"6": {
+           "description": [
+		     "Defenseless in sleep, lost in ",
+             "last night's blissful exhaustion"
+           ]
 		}
 	}
   },   
   "32": {
     "name": [],
     "subtitle": [
-	  "Hungry "
+	  "Hungry \\str[120]"
 	],
     "description": [
       ""	
@@ -305,7 +311,7 @@
   "33": {
     "name": [],
     "subtitle": [
-	  "Relaxing "
+	  "Relaxing \\str[120]"
 	],
     "description": [
       ""	
@@ -322,7 +328,7 @@
   "34": {
     "name": [],
     "subtitle": [
-	  "Brushing "
+	  "Brushing \\str[120]"
 	],
     "description": [
       ""	
@@ -354,7 +360,7 @@
   "40": {
     "name": [],
     "subtitle": [
-      "Crying "	
+      "Crying \\str[120]"	
 	],	
     "description": [
       ""
@@ -388,6 +394,12 @@
            "description": [
              "\\str[120] curls up like a kitten, ",
 			 "sneaking glances at me."
+           ]
+		},
+		"1": {
+           "description": [
+             "She pressed close to mine, ",
+			 "like holding a warm pillow."
            ]
 		}
 	}	

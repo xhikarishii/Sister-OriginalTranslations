@@ -70,6 +70,16 @@
     "目前游戏已经有更高版本的补丁发布，",
     "请通过自动更新应用补丁修复问题！"
   ],
+  "cloudSaveServiceWarning": [
+    "该功能将请求访问您的Google Drive，",
+	"以便能将游戏存档文件存储在NLCH/save文件夹中。",
+    "上传的存档文件将用于后续同步下载回游戏中。",
+    "您是否同意授予游戏Google Drive访问权限？"
+  ],
+  "uploadSaveFile": [
+    "从Google Drive下载存档将会覆盖您当前的本地存档文件！",
+    "是否继续操作？"
+  ],  
   "bagFull": [
     "超出背包上限！！"
   ],
@@ -99,6 +109,9 @@
   ],
   "totalFilesToUpdate": [
     "检测到${}个文件需要更新——开始下载流程！"
+  ],
+  "silentUpdateSuccess": [
+    "成功安装了${}的新增补丁内容，将在下次重启游戏时生效！"
   ],
   "renameCharacter": [
     "我想起来了——",
@@ -152,5 +165,37 @@
     "我们的 Steam 商店页面已经上线啦！",
 	"欢迎添加到心愿单支持我们！  (*´∀`)~♥",
 	"⬇点击即可跳转到Steam页面"
-  ]
+  ],
+  "AdventurersPathway": {
+    "mapName": " -冒險者小道- "
+  }, 
+  "ShallowRuinsLabyrinth": {
+    "mapName":        " -浅層遺跡迷宮- ",
+	"mapDescription": " 孕育衆多謎団的巨大迷宮 "
+  }, 
+  "ForgottenCatacombe": {
+    "mapName": " -忘却的墓穴- "
+  }, 
+  "ForestofRuins": {
+    "mapName": " -遺跡之森- "
+  }, 
+  "AbandonedForest": {
+    "mapName": " -迷失之森- "
+  }, 
+  "ExcavationSite": {
+    "mapName": " -开拓中地区- "
+  }, 
+  "TheFallenChurch": {
+    "mapName": " -墮落的聖堂- "
+  }, 
+  "DoorofStar": {
+    "mapName": " -星之門- "
+  }, 
+  "ScorchingLavaZone": {
+    "mapName":        " -大焦熱溶岩帶- ",
+	"mapDescription": " 熔火奔涌之地，唯有堅毅者能踏足其境 "
+  }, 
+  "Nibelungen": {
+    "mapName": " -尼伯龍根- "
+  }    
 }

@@ -96,16 +96,22 @@
   "16": [
     "\\fr\\fs[28]\\c[114]Grand Labyrinth",
     "\\fr\\fs[22]\\i[16]???",
-    "✦The entrance to the Ruins Labyrinth,",
-    "overrun with monsters from the Abyssal aura.",
-    "Though perilous, it holds great opportunities,",
-    "with rumors of Abyssal secrets hidden in its depths.",
-    "Still, it’s just one of many paths into the Abyss."
+    "✦Legend speaks of corridors forsaken by the gods, ",
+	"stretching here into infinity.",
+    "Beneath crumbling domes and ancient, entangling vines, ",
+	"the radiance of a lost civilization lingers still.",
+    "Countless adventurers have ventured within, never to return—",
+    "The Labyrinth refuses no guest; it only decides who may leave. "
   ],
   "17": [
     "✦An 85-inch TV built with the latest tech.",
     "However, it doesn’t receive many broadcast ",
 	"channels. To watch more interesting shows,",
 	"gotta find some videotapes somehow."
+  ],
+  "18": [
+    "✦The panties \\str[120] just took off.",
+    "It still hold her body heat, and that small patch ",
+	"of fabric in the middle looks soaking wet."
   ]
 }

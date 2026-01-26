@@ -71,6 +71,17 @@
     "新しいパッチが公開されていますので、",
     "自動アップデートで修正してください！"
   ],
+  "cloudSaveServiceWarning": [
+    "この機能はGoogle Driveへのアクセスを要求します。",
+	"ゲームのセーブデータをNLCH/saveフォルダに保存するためです。",
+    "アップロードされたセーブデータは、後で同期してゲームにダウンロードする際に使用されます。",
+    "ゲームにGoogle Driveへのアクセス権限を付与してもよろしいですか？"
+  ],
+  "uploadSaveFile": [
+    "Google Driveからセーブデータをダウンロードすると、",
+	"現在のローカルセーブデータが上書きされます！",
+    "続行しますか？"
+  ],   
   "bagFull": [
     "所持上限超過！！"
   ],
@@ -100,6 +111,9 @@
   ],
   "totalFilesToUpdate": [
     "${}個の更新ファイルが検出されました——ダウンロードを開始します！"
+  ],
+  "silentUpdateSuccess": [
+    "${}の追加パッチのインストールが完了しました。次回起動時より有効になります。"
   ],
   "renameCharacter": [
     "思い出した、",
@@ -155,5 +169,37 @@
     "Steamストアページがついに公開されました！",
 	"ぜひウィッシュリストに追加して応援してくださいね！ (*´∀`)~♥",
 	"⬇クリックするとSteamページに移動します。"
-  ]     
+  ],
+  "AdventurersPathway": {
+    "mapName": " -冒険の遊歩道- "
+  }, 
+  "ShallowRuinsLabyrinth": {
+    "mapName":        " -浅層遺跡迷宮- ",
+	"mapDescription": " 数々の謎を孕む巨大迷宮 "	
+  }, 
+  "ForgottenCatacombe": {
+    "mapName": " -忘却のカタコンベ- "
+  }, 
+  "ForestofRuins": {
+    "mapName": " -遺跡の森- "
+  }, 
+  "AbandonedForest": {
+    "mapName": " -捨てられた森- "
+  }, 
+  "ExcavationSite": {
+    "mapName": " -開発中エリア- "
+  }, 
+  "TheFallenChurch": {
+    "mapName": " -堕落の聖堂- "
+  }, 
+  "DoorofStar": {
+    "mapName": " -星の門- "
+  }, 
+  "ScorchingLavaZone": {
+    "mapName":        " -大焦熱溶岩帯- ",
+	"mapDescription": " 渦巻く灼熱の大地、炎が紡ぐ試練の地 "
+  }, 
+  "Nibelungen": {
+    "mapName": " -ニーベルンゲン- "
+  }          
 }

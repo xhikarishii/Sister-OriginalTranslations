@@ -77,7 +77,24 @@
 		    "Hold the skill button to activate the skill",
 		    "Cancel while spinning to throw your weapon"
 		]		
-    },	
+    },
+    "6": {
+        "name": [
+            "Lucky Pervert"
+        ],
+        "subtitle": [
+		    "true"
+		],
+        "description": [
+            "A legendary perverted constitution that activates on its own, ",
+			"even without the user realizing it.",
+			"As if blessed and guided by an unseen goddess, irresistible forces ",
+			"push you into blush-inducing, heart-pounding fanservice scenarios…!"
+        ],
+        "ability": [
+		    "Always creates the perfect opportunities to trigger lewd events!"
+		]		
+    },
     "7": {
         "name": [
             "Danger Sense"

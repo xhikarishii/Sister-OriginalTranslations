@@ -774,5 +774,33 @@
             "Hold right-click to charge and release a \\c[27]Blood Piercing Arrow\\c[0]",
 			"Consumes HP to empower shots. Killing arrows drain blood"
         ]
+    },
+    "250": {
+        "name": [
+            "Hellstone Pickaxe"
+        ],
+        "subtitle": "",
+        "description": [
+            "An exotic pickaxe processed and forged from Hellstone Ingots",
+            "With its astonishing hardness and the mana entwined around it,",
+			"it can shatter most objects in the world with a single strike"
+        ],
+        "ability": [
+            "Greatly increases damage dealt to destructible entities"
+        ]
+    },
+    "251": {
+        "name": [
+            "Hellstone Shovel"
+        ],
+        "subtitle": "",
+        "description": [
+            "An exotic shovel processed and forged from Hellstone Ingots",
+            "With its astonishing hardness and the mana entwined around it,",
+			"even solid ground will be forcibly torn apart beneath it"
+        ],
+        "ability": [
+            "Can break through terrain, creating a passage to lower layers"
+        ]
     }
 }
